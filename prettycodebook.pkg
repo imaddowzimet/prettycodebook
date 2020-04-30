@@ -1,0 +1,8 @@
+v 3
+d prettycodebook
+d Program to produce pretty HTML codebook
+d Distribution-Date: 20200429
+d Authors: Isaac Maddow-Zimet and Selena Anjur-Deitrich
+d Contact: imaddowzimet@guttmacher.org
+f prettycodebook.ado
+f prettycodebook.sthlp
